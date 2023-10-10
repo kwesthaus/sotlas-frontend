@@ -5,6 +5,7 @@ This is the Vue.js based frontend for SOTLAS (https://sotl.as), an interactive a
 ## Project setup
 ```
 npm install
+npm run prebuild
 ```
 
 ### Compiles and hot-reloads for development
